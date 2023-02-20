@@ -1,4 +1,4 @@
-This folder "A_ABM_Classification" contains the following:
+### This folder "A_ABM_Classification" contains the following:
 
 1. The main script (ABM_and_Classification.R) for invoking the ABM and the classification analysis that also saves the classification results that serve as input for 2. below. 4 parameter combinations are initiated in the main file, with the fourth serving further exploration purposes, while the first three are pivotal in the paper. The file calls many auxiliary functions that contain e.g. voting functions, dimensionality reduction steps, clustering, logistic regression, located in the folder: "auxiliary functions". Among the auxiliary functions, there are entropy computing functions that served data exploration purposes. The main script and auxiliary functions mention signals, which refer to properties described in the paper.
 

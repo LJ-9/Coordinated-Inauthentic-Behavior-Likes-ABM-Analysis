@@ -1,4 +1,4 @@
-This folder contains the files for calculating the majortiy correctness scores (MCSs) of juries.
+### This folder contains the files for calculating the majortiy correctness scores (MCSs) of juries.
 
 While coding, we named many things "CW", short for "Correct Wins", i.e., That the majority vote was correct.
 For fear of typos, this has not been changed in subsequent files.
