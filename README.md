@@ -29,3 +29,7 @@ This repository contains three folders:
  
 ** Change in variable naming **  
 You may encounter that we refer to our agents as genuine and nefarious in the code and further READMEs deeper in the folder hierarchy. Please note that in the process of this research project, we changed the name of *genuine* agents to *authentic* agents in the paper. This also affects a change in notation from G to A. Similarly, we changed the name of *nefarious* agents to *inauthentic* agents. Among the inauthentic agent types, formerly nefarious agent types, we renamed the Amplifier agents (A) to Booster agents (B). These changes do not have any consequences in the technical modelling steps.****
+
+
+# License
+This project is licensed under the terms of the GNU General Public License v3.0 (gpl-3.0). See [LICENSE](https://github.com/LJ-9/Coordinated-Inauthentic-Behavior-Likes-ABM-Analysis/blob/main/LICENSE) for rights and limitations.
