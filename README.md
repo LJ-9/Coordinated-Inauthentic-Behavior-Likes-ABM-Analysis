@@ -6,19 +6,23 @@ Please cite the paper when using the code:
 Jahn, Laura and Rendsvig, Rasmus K., "Detecting Coordinated Inauthentic Behavior in Likes on Social Media: Proof of Concept", 2022.
 
 ```
-  @misc{JahnRendsvig22Coordination,  
+  @article{JahnRendsvig22Coordination,  
     author = {{Jahn, Laura and Rendsvig, Rasmus~K.}},
     title = {{Detecting Coordinated Inauthentic Behavior in Likes on Social Media: Proof of Concept}},  
     year = {2022},   
+    journal = {Under Review}
   }
  ```
+
+The ABM and the data analysis is done in R. Dependencies and packages are loaded in the scripts. 
+
 This repository contains three folders:
 
-- /ABM_Classification: contains all scripts to run the ABM (generate vote data) and execute classification analysis on varying populations, as well as scripts that produce misclassification numbers and plots
+- [/ABM_Classification](https://github.com/LJ-9/Coordinated-Inauthentic-Behavior-Likes-ABM-Analysis/tree/main/ABM_Classification): contains all scripts to run the ABM (generate vote data) and execute classification analysis on varying populations, as well as scripts that produce misclassification numbers and plots
 
-- /Data: here is where all data is stored that is produced in /ABM_Classification
+- [/Data](https://github.com/LJ-9/Coordinated-Inauthentic-Behavior-Likes-ABM-Analysis/tree/main/Data): here is where all data is stored that is produced in /ABM_Classification
 
-- /MCS: scripts to calculate majority correctness scores of Jury Selection Procedures
+- [/MCS](https://github.com/LJ-9/Coordinated-Inauthentic-Behavior-Likes-ABM-Analysis/tree/main/MCS): scripts to calculate majority correctness scores of Jury Selection Procedures
 
 - please see further READMEs throughout folder hierarchy for guidance.
 
