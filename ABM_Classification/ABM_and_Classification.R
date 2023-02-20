@@ -17,7 +17,7 @@ library(cluster)
 
 
 # source functions needed in the model pipeline sourced throughout with here library
-library(here) # should be [1] "/ ... /Code". Here should direct to folder "Code"
+library(here) # should be [1] "/ ... /RepoName". Here should direct to folder "RepoName"
 
 # ...(here("ABM_Classification/auxiliary functions/")) # where auxiliary functions are located
 # ...(here("Data/single_DatABM/"))                     # where single vote data files will be stored
