@@ -39,3 +39,8 @@ You may encounter that we refer to our agents as genuine and nefarious in the co
 
 ## License
 This project is licensed under the terms of the GNU General Public License v3.0 (gpl-3.0). See [LICENSE](https://github.com/LJ-9/Coordinated-Inauthentic-Behavior-Likes-ABM-Analysis/blob/main/LICENSE) for rights and limitations.
+
+## License
+The authors can be contacted at laurajahn [at] outlook [dot] de and rendsvig [at] gmail [dot] com.
+
+
