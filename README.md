@@ -10,7 +10,8 @@ Jahn, Laura and Rendsvig, Rasmus K., "Detecting Coordinated Inauthentic Behavior
     author = {{Jahn, Laura and Rendsvig, Rasmus~K.}},
     title = {{Detecting Coordinated Inauthentic Behavior in Likes on Social Media: Proof of Concept}},  
     year = {2022},   
-    journal = {Under Review}
+    journal = {arXiv}
+    url = {\url{https://arxiv.org/abs/2305.07350}}
   }
  ```
 
