@@ -1,13 +1,13 @@
 # Coordinated Inauthentic Behavior in Likes: Agent-based-Model and Analysis
-This repository contains code to reproduce the results in the paper *Detecting Coordinated Inauthentic Behavior in Likes on Social Media: Proof of Concept* by Laura Jahn and Rasmus K. Rendsvig
+This repository contains code to reproduce the results in the paper *Detecting Coordinated Inauthentic Behavior in Likes on Social Media: Proof of Concept* by Laura Jahn, Rasmus K. Rendsvig, and Jacob Stærk-Østergaard.
 
 Please cite the paper when using the code:  
 
-Jahn, Laura and Rendsvig, Rasmus K., "Detecting Coordinated Inauthentic Behavior in Likes on Social Media: Proof of Concept", 2022.
+Jahn, Laura, Rendsvig, Rasmus K., Stærk-Østergaard, Jacob, "Detecting Coordinated Inauthentic Behavior in Likes on Social Media: Proof of Concept", 2022.
 
 ```
   @article{JahnRendsvig22Coordination,  
-    author = {{Jahn, Laura and Rendsvig, Rasmus~K.}},
+    author = {{Jahn, Laura and Rendsvig, Rasmus~K. and St\ae}rk-{\O}stergaard, Jacob}},
     title = {{Detecting Coordinated Inauthentic Behavior in Likes on Social Media: Proof of Concept}},  
     year = {2022},   
     journal = {arXiv}
