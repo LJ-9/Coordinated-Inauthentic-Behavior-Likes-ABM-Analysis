@@ -3,7 +3,7 @@ This repository contains code to reproduce the results in the paper *Detecting C
 
 Please cite the paper when using the code:  
 
-Jahn, Laura, Rendsvig, Rasmus K., Stærk-Østergaard, Jacob, "Detecting Coordinated Inauthentic Behavior in Likes on Social Media: Proof of Concept", 2022.
+Jahn, Laura, Rendsvig, Rasmus K., Stærk-Østergaard, Jacob, "[Detecting Coordinated Inauthentic Behavior in Likes on Social Media: Proof of Concept](https://arxiv.org/abs/2305.07350)", 2022.
 
 ```
   @article{JahnRendsvig22Coordination,  
